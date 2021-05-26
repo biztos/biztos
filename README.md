@@ -1,9 +1,9 @@
 - 🙏 Hi! ¡Hola! Hallo! Szia! สวัสดีครับ 
 - 😎 I am `@biztos` in many places online.
 - 🖼️ I'm a [visual artist][0] currently working on:
-  - Abstract painting.
-  - Works on paper.
-  - Conceptual new media.
+  - 🎨 Abstract painting.
+  - ✏️ Works on paper.
+  - 🎥 Conceptual new media.
 - 💾 I also code in a handful of languages.
 - 🤖 And do other *techie* things.
 - 🌱 I’m learning Thai and modular synthesis.

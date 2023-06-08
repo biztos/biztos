@@ -3,7 +3,7 @@
 - 🖼️ I'm a [visual artist][0] and a [hackerpreneur][1].
 - 💾 I code in a handful of languages.
 - 🤖 And do other *techie* things.
-- 💼 I am available to [hire][6] for an Engineering Leadership position (startups preferred)
+- 💼 I am currently [available to hire][6].
 
 
 [0]: https://kevinfrost.com/

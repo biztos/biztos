@@ -12,7 +12,7 @@
 [3]: https://news.ycombinator.com/user?id=biztos
 [4]: https://www.linkedin.com/in/biztos/
 [5]: https://www.behance.net/biztos
-[6]: https://tonsai.dev/hireme/
+[6]: https://biztos.com/ghcv/
 
 <!---
 biztos/biztos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,16 @@
-- 🙏 Hi! ¡Hola! Hallo! Szia! สวัสดีครับ 
-- 😎 I am `@biztos` [in][4] [many][5] [places][2] [online][3].
-- 🖼️ I'm a [visual artist][0] and a [hackerpreneur][1].
-- 💾 I code in a handful of languages.
+![hello](https://biztos.com/ghcv/hello.svg)
+
+## Kevin Frost here.  Welcome to my GitHub.
+
+## I'm [available to hire][6]: Golang, Python, Typescript, & more.
+
+## And who am I?
+
+- 😎 I am `@biztos` in [many][3] [places][4] [online][5].
+- 🖼️ I make [art][0] and [software][1].
+- 💾 I know several `(computer|human)` languages.
+- 🖋️ I do a little [writing][7] on the side.
 - 🤖 And do other *techie* things.
-- 💼 I am currently [available to hire][6].
 
 
 [0]: https://kevinfrost.com/
@@ -13,7 +20,7 @@
 [4]: https://www.linkedin.com/in/biztos/
 [5]: https://www.behance.net/biztos
 [6]: https://biztos.com/ghcv/
-
+[7]: https://skynetobserver.substack.com/
 <!---
 biztos/biztos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

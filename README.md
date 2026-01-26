@@ -2,7 +2,7 @@
 
 ## Kevin Frost here.  Welcome to my GitHub.
 
-## I'm [available to hire][6]: Golang, Python, Typescript, & more.
+## I'm [available to hire][6]: Security, Backend, Full-stack, AI, & more.
 
 ## And who am I?
 
